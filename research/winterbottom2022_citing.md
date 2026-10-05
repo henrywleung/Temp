@@ -50,6 +50,8 @@ Verified citation: **Winterbottom FA, Webre H.** Rapid Response System Restructu
 Verified citation: **Winterbottom FA.** From Reactive to Proactive: A Novel Rapid Response System. *Critical Care Nurse* 2025;45(2):74-76 (April 2025). PMID 40168007. https://aacnjournals.org/ccnonline/article/45/2/74/32711
 - Content: this is a short article in the evidence-based-practice style. It describes the staged restructure into a 24/7 proactive RRS, and a pilot of an automated early warning system "based on a very large database" that gives RRTs about **12 hours of lead time**. It also covers RRN training in AI, risk-stratification alerts and proactive rounding, and discusses continuous vital-sign monitoring, EWS, AI and virtual nursing as replacements for the ICU-nurse consult model.
 - **Citing papers found: none.** The article is recent and short.
+- **Correction (follow-up check):** search snippets tie the "automated EWS based on a very large database ... 12 hours lead time" sentence to Winterbottom's **AJCC 2025;34(4):317-322 "Rapid Response"** paper. Whether the CCN piece repeats it is unconfirmed. DOI for the CCN piece: 10.4037/ccn2025623. The CCN piece also says the most frequent predictors of deterioration are RR, then HR, SpO2, temperature, SBP and level of consciousness.
+- Possible responses or related items in Critical Care Nurse (unconfirmed links): "Integration of Rapid Response Teams and Early Warning Systems to Reduce Cardiac Arrests and ICU Readmissions" 45(4):49 (PMID 40748923); "Using Artificial Intelligence With Rapid Response Teams" 46(1):9; "Reflection on the Use of a Rapid Response Team and the Clinical Effectiveness of Early Warning Systems" 46(1):10.
 
 ## 5. "Rapid Response Innovation" (PubMed 42103416)
 
